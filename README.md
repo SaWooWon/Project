@@ -19,7 +19,7 @@
 <br>
 
 ## 4. django를 이용하여 일정 공유 게시판 생성(추가 개발 필요) <br>
-  > https://github.com/SaWooWon/Project/tree/main/mysite
+  > https://github.com/SaWooWon/Project/tree/main/mysite <br>
   > django 프레임워크를 사용하여 단체 일정을 기록하고 확인할 수 있는 게시판을 생성 <br>
-  > 회원가입 후 로그인 기능, 달력까지는 했으나 등록한 일정이 제대로 표시되지 않음
+  > 회원가입 후 로그인 기능, 달력까지는 했으나 등록한 일정이 제대로 표시되지 않음 <br>
   > html, css에 대한 공부가 더 필요하다
