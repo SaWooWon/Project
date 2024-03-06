@@ -1,0 +1,12 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static 'css/style.css' %}">
+        <title>Schedule</title>
+    </head>
+    <body>
+        <a href="{% url 'main:newschedule' %}", method='POST'>새 일정</a>
+        {{ calendar }}
+    </body>
+</html>

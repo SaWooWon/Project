@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New</title>
+    </head>
+    <body>
+        <form action="submitnews", method='POST'>
+        {% csrf_token %}
+            일정 : 
+            <input type='text', id='title', name='title'><br>
+            내용 : 
+            <input type='text', id='conents', name='contents'><br>
+            날짜 : 
+            <input type='text', id='date', name='date'><br>
+            <input type='submit', value='등록'>
+        </form>
+</html>

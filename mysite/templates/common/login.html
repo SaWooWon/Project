@@ -1,0 +1,19 @@
+{% if error %}
+{{ error }}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome</title>
+    </head>
+    <form action="{% url 'common:login'%}", method='POST'>
+    {% csrf_token %}
+        ID : 
+        <input type='text', id='username', name='username'><br>
+        비밀번호 : 
+        <input type='password', id='password', name='password'><br>
+        <a href='common/signup/'>회원가입</a>
+        <input type='submit', value = 'login'>
+
+</html>

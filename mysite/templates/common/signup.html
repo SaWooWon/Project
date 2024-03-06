@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>회원가입</title>
+    </head>
+    <form action="{% url 'common:signup'%}", method='POST'>
+    {% csrf_token %}
+        ID : 
+        <input type='text', id='username', name='username'> <br>
+        비밀번호 : 
+        <input type='password', id='password1', name='password1'> <br>
+        비밀번호 확인 : 
+        <input type='password', id='password2', name='password2'> <br>
+        이름 : 
+        <input type='text', id='name', name='name'> <br>
+        세레명 : 
+        <input type='text', id='cname', name='cname'> <br>
+        축일
+        <input type='text', id='ndm', name='ndm'>월
+        <input type='text', id='ndd', name='ndd'>일
+        <input type='submit', value='signup'>
+    </form>
+</html>
