@@ -15,8 +15,7 @@
   > https://github.com/SaWooWon/Project/blob/main/final.py <br>
   > 딥러닝 프로젝트 <br>
   > MediaPipe 모델을 이용하여 입꼬리 detection을 하여 일정 기울기 이상 변화할 경우 웃는 표정으로 판단하여 이미지 캡쳐하는 모델 개발 <br>
-  > 딥러닝을 활용하기 위해서는 모델을 잘 알아야하고 수학적, 통계적 지식이 있을 경우 더 도움이 될 것 같다.   
-<br>
+  > 딥러닝을 활용하기 위해서는 모델을 잘 알아야하고 수학적, 통계적 지식이 있을 경우 더 도움이 될 것 같다. <br>
 
 ## 4. django를 이용하여 blog 만들어보기 <br>
   > https://github.com/SaWooWon/Project/tree/main/pylog <br>
