@@ -21,9 +21,12 @@
 ## 4. django를 이용하여 blog 만들어보기 <br>
   > https://github.com/SaWooWon/Project/tree/main/pylog <br>
   > django 프레임워크를 사용하여 blog 사이트를 만들어보는 프로젝트 <br>
-  > django 프레임워크의 기본적이 틀과 POST, GET 방식의 차이 등 웹페이지를 구성하고 정보를 주고받는 과정을 학습 <br>
-  > css를 직접 만들어보면 좋을 것 같다.
+  > django 프레임워크의 기본적인 틀과 POST, GET 방식의 차이 등 애플리케이션을 구성하고 정보를 주고받는 과정을 학습 <br>
+  > css를 직접 만들어보면 좋을 것 같다. <br>
 
 ## 5. django를 이용하여 instagram 만들어보기 <br>
-  >
+  > https://github.com/SaWooWon/Project/tree/main/pystaram <br>
+  > django 프레임워크를 사용하여 인스타그램 클론코딩을 해보는 프로젝트 <br>
+  > 기본적인 MVC 패턴을 활용하는 것에서 나아가 form, inline 등 여러가지 기능을 활용하는 방법을 학습 <br>
+  > AWS를 사용하여 실제로 배포해보는 것까지 해볼 예정
 
