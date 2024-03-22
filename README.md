@@ -18,8 +18,12 @@
   > 딥러닝을 활용하기 위해서는 모델을 잘 알아야하고 수학적, 통계적 지식이 있을 경우 더 도움이 될 것 같다.   
 <br>
 
-## 4. django를 이용하여 일정 공유 게시판 생성(추가 개발 필요) <br>
-  > https://github.com/SaWooWon/Project/tree/main/mysite <br>
-  > django 프레임워크를 사용하여 단체 일정을 기록하고 확인할 수 있는 게시판을 생성 <br>
-  > 회원가입 후 로그인 기능, 달력까지는 했으나 등록한 일정이 제대로 표시되지 않음 <br>
-  > html, css에 대한 공부가 더 필요하다
+## 4. django를 이용하여 blog 만들어보기 <br>
+  > https://github.com/SaWooWon/Project/tree/main/pylog <br>
+  > django 프레임워크를 사용하여 blog 사이트를 만들어보는 프로젝트 <br>
+  > django 프레임워크의 기본적이 틀과 POST, GET 방식의 차이 등 웹페이지를 구성하고 정보를 주고받는 과정을 학습 <br>
+  > css를 직접 만들어보면 좋을 것 같다.
+
+## 5. django를 이용하여 instagram 만들어보기 <br>
+  >
+
